@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+
+    <dbname value="CoolWeather03.db" />
+    <version value="2" />
+
+    <list>
+        <mapping class="com.coolweather.coolweather04.database_Object.Province"/>
+        <mapping class="com.coolweather.coolweather04.database_Object.City"/>
+        <mapping class="com.coolweather.coolweather04.database_Object.County"/>
+    </list>
+
+</litepal>
